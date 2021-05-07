@@ -8,7 +8,8 @@ INSTANCE Info_FindNPC_WRK(C_INFO)
 	condition	= Info_FindNPC_WRK_Condition;
 	information	= Info_FindNPC_WRK_Info;
 	permanent	= 1;
-	description = "Wo finde ich...";
+	description = "Kde najdu...";
+	// "Wo finde ich..."
 };                       
 
 FUNC INT Info_FindNPC_WRK_Condition()
